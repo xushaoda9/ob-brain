@@ -1,0 +1,14 @@
+{
+  "name": "ob-brain",
+  "version": "1.0.48",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node --check main.js",
+    "test": "node --test test/*.test.cjs",
+    "build": "node scripts/build.cjs"
+  }
+}

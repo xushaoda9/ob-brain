@@ -1,0 +1,9 @@
+{
+  "id": "ob-brain",
+  "name": "OB Brain",
+  "version": "1.0.48",
+  "minAppVersion": "1.6.6",
+  "description": "Navigate your notes as a local knowledge graph with a native note pane.",
+  "author": "OB Brain",
+  "isDesktopOnly": true
+}
